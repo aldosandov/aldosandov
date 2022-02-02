@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo Sandoval</h1>
-<h3 align="center">I consider myself a person who loves technology, I'm guided by the philosophy of never stop learning. I'm currently working on my bachelor's degree in data science, personal projects, and soft skills development.</h3>
+<h3 align="center">I consider myself a person who loves technology, I'm guided by the philosophy of "never stop learning". Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Committed to helping companies advance by helping them to develop strategic plans based on predictive modeling and findings.</h3>
 
 - 💬 Ask me about **data science.**
 
